@@ -28,3 +28,13 @@ ion-icon.icone {
     padding: 15px;
     color: #b07200;
 }
+/* salvataggio */
+
+div.card:hover{
+   transform: scale(1.05);
+   box-shadow: 5px 5px grey;
+}
+
+.stars{
+    color: #b07200;
+}
