@@ -8,8 +8,8 @@
     border-radius: 50px;
 }
 #hero{
-    margin-left: 50%;
-    height: 300px;
+    width: 100%;
+    
 }
 div.colore{
     background-color: #6f57f5 !important;
