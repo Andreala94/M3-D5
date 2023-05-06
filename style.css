@@ -38,3 +38,14 @@ div.card:hover{
 .stars{
     color: #b07200;
 }
+
+/* footer */
+.lista{
+    list-style-type: none;
+    
+}
+ul.lista > li > a{
+    margin: 5px;
+    color: black;
+    text-decoration: none;
+}
